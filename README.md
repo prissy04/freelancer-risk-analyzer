@@ -1,4 +1,4 @@
-AI Freelancer Business Risk Analyzer
+# AI Freelancer Business Risk Analyzer
 > **Live Demo:** [freelancer-risk-analyzer.vercel.app](https://freelancer-risk-analyzer.vercel.app)  
 > **Built by:** Prisca Manokore | [LinkedIn](https://linkedin.com/in/priscamanokore) | [GitHub](https://github.com/prissy04)  
 > **Stack:** React · Vite · Anthropic Claude API · Vercel
